@@ -3,12 +3,12 @@
 
 int main()
 {
-    int n,r,c;
+    int number,row,colum;
     printf("Enter a number:");
-    scanf("%d",&n);
-    for(r=0;r<=n;r++)
+    scanf("%d",&number);
+    for(row=0;row<=number;row++)
     {
-        for(c=0;c<n-r;c++)
+        for(colum=0;colum<number-row;colum++)
         {
             printf(" * ");
         }
