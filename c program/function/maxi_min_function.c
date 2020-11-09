@@ -1,7 +1,7 @@
 #include<stdio.h>
 #include<stdlib.h>
 
-int Max_Min_number (int[],int);
+
 
 int Max_Min_number(int array[],int num)
 {
