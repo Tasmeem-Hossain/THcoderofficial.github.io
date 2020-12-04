@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1604098478 source:d:\new c\prime_number_array.c\main.c
+	<stdio.h>
+	<stdlib.h>
+
