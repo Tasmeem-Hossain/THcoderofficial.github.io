@@ -13,7 +13,7 @@ int main()
     reverse=reverse*10+(number%10);
     number=number/10;
     }
-    if(orginal==number)
+    if(orginal==reverse)
     {
     printf("Number is a palindrome ");
     }
