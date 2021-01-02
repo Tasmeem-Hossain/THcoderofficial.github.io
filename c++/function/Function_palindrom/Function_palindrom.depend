@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1608654172 source:c:\users\tasme\onedrive\desktop\c++\function_palindrom\main.cpp
+	<iostream>
+	<string.h>
+
