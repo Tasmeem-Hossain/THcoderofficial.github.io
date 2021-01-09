@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1609784731 source:c:\users\tasme\onedrive\desktop\c++\string_reverse\main.cpp
+	<iostream>
+	<stdlib.h>
+

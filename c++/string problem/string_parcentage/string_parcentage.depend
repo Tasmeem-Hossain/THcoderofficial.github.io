@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1610197877 source:c:\users\tasme\onedrive\desktop\c++\string_parcentage\main.cpp
+	<iostream>
+	<stdlib.h>
+	<cstring>
+

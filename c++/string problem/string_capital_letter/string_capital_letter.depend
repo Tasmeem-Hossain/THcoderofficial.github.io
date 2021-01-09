@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1610170363 source:c:\users\tasme\onedrive\desktop\c++\string_capital_letter\main.cpp
+	<iostream>
+	<stdlib.h>
+	<string>
+
