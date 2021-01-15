@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1610031958 source:c:\users\tasme\onedrive\desktop\c++\capitalize_the_first_letter\main.cpp
+	<iostream>
+	<stdlib.h>
+	<string>
+

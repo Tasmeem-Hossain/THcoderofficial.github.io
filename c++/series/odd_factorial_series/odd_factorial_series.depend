@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1610569263 source:c:\users\tasme\onedrive\desktop\c++\odd_factorial_series\main.cpp
+	<iostream>
+	<math.h>
+

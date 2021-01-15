@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1610646246 source:c:\users\tasme\onedrive\desktop\c++\random_number_ponter_function\main.cpp
+	<iostream>
+	<stdlib.h>
+	<time.h>
+
