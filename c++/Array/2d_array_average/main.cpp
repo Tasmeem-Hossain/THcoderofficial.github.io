@@ -5,7 +5,7 @@ using namespace std;
 int main()
 {
     int row,coloum,j;
-    double mean_value,mean_value1,sum=0,sum1;
+    double mean_value,mean_value1,sum=0,sum1=0;
 
     cout<<"please enter the number of cities: ";
     cin>>row ;
