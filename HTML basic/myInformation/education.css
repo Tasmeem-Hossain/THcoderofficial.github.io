@@ -1,0 +1,31 @@
+body {
+  background-color: cadetblue;
+}
+
+header {
+  background-color: #8a2424;
+  text-align: center;
+  height: 100px;
+  margin: 10px;
+  padding: 1%;
+  height: 10%;
+  width: 100%;
+}
+
+.info {
+  margin-top: 5%;
+  display: flex;
+  justify-content: space-between;
+}
+
+.in{
+    flex-basis: 30;
+    border-radius: 10px;
+    padding: 20px;
+    background: cornsilk;
+    transition: 2s;
+    
+}
+.in:hover{
+    background-color: rgb(238, 145, 163);
+}
