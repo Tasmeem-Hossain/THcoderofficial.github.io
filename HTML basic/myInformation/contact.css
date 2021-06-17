@@ -1,0 +1,18 @@
+header {
+    background-color: #f7a2a2;
+    text-align: center;
+    height: 100px;
+    margin: 5px;
+    padding: 1%;
+    height: 10%;
+    width: 100%;
+  }
+  .info {
+     background-color: wheat;
+    margin-top: 5%;
+    display: flex;
+    text-align: left;
+  }
+.info:hover{
+    background-color: rgb(245, 186, 198);
+}
